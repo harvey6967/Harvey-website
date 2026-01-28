@@ -45,10 +45,15 @@ body {
     height: 50px;
 }
 
-.link{
-background-color: fuchsia;
-width: 100px;
-height: 50px;
-color: slategrey;
-border: 2px solid brown;
+.link {
+    background-color: fuchsia;
+    width: 100px;
+    height: 50px;
+    color: slategrey;
+    border: 2px solid brown;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
