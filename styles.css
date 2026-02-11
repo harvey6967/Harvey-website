@@ -46,7 +46,6 @@ body {
 }
 
 .link {
-    background-color: fuchsia;
     width: 100px;
     height: 50px;
     color: slategrey;
@@ -56,6 +55,7 @@ body {
 a {
     text-decoration: none;
     color: black;
+    background-color: fuchsia;
 }
 #image-carousel {
 
